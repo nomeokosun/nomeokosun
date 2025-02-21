@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nomeokosun
 - 👀 I’m a Product designer with 2.5 years experience.
-- 🌱 I’m currently learning Frontend Dev on the side cos I love development too
+- 🌱 I’m currently transitioning into a Frontend Dev cos I love building user interfaces
 - 💞️ I’m looking to collaborate on live projects
 - 📫 How to reach me: onomeokosun123@gmail.com
 
